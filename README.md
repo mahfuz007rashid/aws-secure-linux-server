@@ -1,5 +1,4 @@
 # Secure, Monitored and Recoverable Linux Server on AWS
-# Secure, Monitored and Recoverable Linux Server on AWS
 
 A private Linux server on AWS with no public IP and no SSH, managed through Systems Manager Session Manager, monitored with CloudWatch alarms and email alerts, backed up with AWS Backup and a tested restore. Everything is defined in Terraform and checked by GitHub Actions.
 
