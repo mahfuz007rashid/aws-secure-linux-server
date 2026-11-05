@@ -1,5 +1,5 @@
 output "instance_id" {
-  value = aws_instance.server.id
+  value =  aws_instance.server.id
 }
 
 output "instance_arn" {
